@@ -1,1 +1,1 @@
-Resolução do desafio bancário proposto no bootcamp Suzano Python na plataforma Dio.
+Resoluções dos desafios propostos no bootcamp Python Suzano na plataforma Dio.
